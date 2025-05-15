@@ -1,0 +1,13 @@
+ID,Tên dịch vụ,Mô tả,Giá,Phân loại
+service-1,Khám và tư vấn,Khám tổng quát và tư vấn về tình trạng răng miệng,200000,Khám tổng quát
+service-2,Cạo vôi răng,Làm sạch cao răng và đánh bóng răng,500000,Vệ sinh răng miệng
+service-3,Trám răng thẩm mỹ,Trám răng bằng vật liệu composite màu trắng,350000,Phục hồi răng
+service-4,Nhổ răng đơn giản,Nhổ răng không cần phẫu thuật,300000,Nhổ răng
+service-5,Nhổ răng khôn,Phẫu thuật nhổ răng khôn,1500000,Phẫu thuật
+service-6,Tẩy trắng răng,Làm trắng răng bằng công nghệ hiện đại,2500000,Thẩm mỹ
+service-7,Bọc răng sứ,Bọc răng sứ thẩm mỹ cao cấp,3000000,Thẩm mỹ
+service-8,Cấy ghép implant,Cấy ghép implant titanium,15000000,Phẫu thuật
+service-9,Niềng răng thẩm mỹ,Niềng răng mắc cài kim loại hoặc sứ,30000000,Chỉnh nha
+service-10,Điều trị tủy răng,Điều trị tủy răng và trám bít ống tủy,1200000,Điều trị
+service-11,Điều trị viêm nha chu,Điều trị viêm nướu và nha chu,800000,Điều trị
+service-12,Hàm giả tháo lắp,Làm hàm giả tháo lắp một phần hoặc toàn phần,5000000,Phục hình

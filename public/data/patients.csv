@@ -1,0 +1,4 @@
+ID,Họ và tên,Số điện thoại,Địa chỉ,Ghi chú,Ngày khám,Số hóa đơn,Dịch vụ,Tổng tiền,Ngày tạo
+record-1,Nguyễn Văn A,0901234567,"123 Đường Lê Lợi, Quận 1, TP.HCM","Bệnh nhân bị đau răng khôn",15/05/2025,150525-01,"Khám và tư vấn;Nhổ răng khôn",1700000,1715760000000
+record-2,Trần Thị B,0912345678,"456 Đường Nguyễn Huệ, Quận 1, TP.HCM","Cần tẩy trắng răng",14/05/2025,140525-01,"Khám và tư vấn;Tẩy trắng răng",2700000,1715673600000
+record-3,Lê Văn C,0923456789,"789 Đường Lý Tự Trọng, Quận 3, TP.HCM","",13/05/2025,130525-01,"Khám và tư vấn;Cạo vôi răng",700000,1715587200000

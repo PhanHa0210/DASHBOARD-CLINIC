@@ -1,0 +1,88 @@
+import type { Service } from "@/types/service"
+
+export const dentalServices: Service[] = [
+  {
+    id: "service-1",
+    name: "Khám và tư vấn",
+    description: "Khám tổng quát và tư vấn về tình trạng răng miệng",
+    price: 200000,
+    category: "Khám tổng quát",
+  },
+  {
+    id: "service-2",
+    name: "Cạo vôi răng",
+    description: "Làm sạch cao răng và đánh bóng răng",
+    price: 500000,
+    category: "Vệ sinh răng miệng",
+  },
+  {
+    id: "service-3",
+    name: "Trám răng thẩm mỹ",
+    description: "Trám răng bằng vật liệu composite màu trắng",
+    price: 350000,
+    category: "Phục hồi răng",
+  },
+  {
+    id: "service-4",
+    name: "Nhổ răng đơn giản",
+    description: "Nhổ răng không cần phẫu thuật",
+    price: 300000,
+    category: "Nhổ răng",
+  },
+  {
+    id: "service-5",
+    name: "Nhổ răng khôn",
+    description: "Phẫu thuật nhổ răng khôn",
+    price: 1500000,
+    category: "Phẫu thuật",
+  },
+  {
+    id: "service-6",
+    name: "Tẩy trắng răng",
+    description: "Làm trắng răng bằng công nghệ hiện đại",
+    price: 2500000,
+    category: "Thẩm mỹ",
+  },
+  {
+    id: "service-7",
+    name: "Bọc răng sứ",
+    description: "Bọc răng sứ thẩm mỹ cao cấp",
+    price: 3000000,
+    category: "Thẩm mỹ",
+  },
+  {
+    id: "service-8",
+    name: "Cấy ghép implant",
+    description: "Cấy ghép implant titanium",
+    price: 15000000,
+    category: "Phẫu thuật",
+  },
+  {
+    id: "service-9",
+    name: "Niềng răng thẩm mỹ",
+    description: "Niềng răng mắc cài kim loại hoặc sứ",
+    price: 30000000,
+    category: "Chỉnh nha",
+  },
+  {
+    id: "service-10",
+    name: "Điều trị tủy răng",
+    description: "Điều trị tủy răng và trám bít ống tủy",
+    price: 1200000,
+    category: "Điều trị",
+  },
+  {
+    id: "service-11",
+    name: "Điều trị viêm nha chu",
+    description: "Điều trị viêm nướu và nha chu",
+    price: 800000,
+    category: "Điều trị",
+  },
+  {
+    id: "service-12",
+    name: "Hàm giả tháo lắp",
+    description: "Làm hàm giả tháo lắp một phần hoặc toàn phần",
+    price: 5000000,
+    category: "Phục hình",
+  },
+]
